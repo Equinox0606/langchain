@@ -1,3 +1,3 @@
-# langchain
+# LangChain
 
-LangChain Reference coed snippets
+LangChain Reference code snippets
